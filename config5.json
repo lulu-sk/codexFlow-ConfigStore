@@ -34,10 +34,10 @@
   "latest": {
     "version": "0.3.0",
     "notesLocale": "zh",
-    "notes": "1. 实时显示账号剩余用量\n2. 新增 @Cursor Rule 支持(仅用于引用)\n3. 代理任务完成时推送系统通知\n4. 重构设置页并新增账号信息展示\n5. 新增设置页缓存一键清理\n6. 修复多项已知问题,提升稳定性",
+    "notes": "1. 实时显示账号剩余用量\n2. 支持 @Cursor Rule(仅引用)\n3. 代理任务完成时推送系统/图标/声音通知\n4. 重构设置页面布局,新增账号信息展示\n5. 设置页新增缓存完全清理功能\n6. 修复若干已知问题",
     "notesLocales": {
-      "zh": "1. 实时显示账号剩余用量\n2. 新增 @Cursor Rule 支持(仅用于引用)\n3. 代理任务完成时推送系统通知\n4. 重构设置页并新增账号信息展示\n5. 新增设置页缓存一键清理\n6. 修复多项已知问题,提升稳定性",
-      "en": "1. Real-time display of remaining account usage\n2. Support for @Cursor Rule (reference-only)\n3. System notifications when agent tasks complete\n4. Rebuilt Settings with an account info section\n5. One-click cache cleanup in Settings\n6. Fixed several known issues and improved stability"
+      "zh": "1. 实时显示账号剩余用量\n2. 支持 @Cursor Rule(仅引用)\n3. 代理任务完成时推送系统/图标/声音通知\n4. 重构设置页面布局,新增账号信息展示\n5. 设置页新增缓存完全清理功能\n6. 修复若干已知问题",
+      "en": "1. Added real-time display for remaining account usage\n2. Added support for @Cursor Rule (reference only)\n3. Added system/icon/sound notifications when proxy tasks complete\n4. Refactored settings layout with new account info section\n5. Added full cache clear option in Settings\n6. Fixed several known issues"
     },
     "url": "https://github.com/yourname/CodexFlow/releases"
   }
