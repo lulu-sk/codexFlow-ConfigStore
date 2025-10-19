@@ -1,61 +1,44 @@
 {
-    "aboutHtmlLocale": "zh",
-    "aboutLocales": {
-        "zh": "<h2>关于 CodexFlow</h2><p>CodexFlow 诞生于一个简单的想法：让 Codex 的操作体验更加流畅与优雅。</p>",
-        "en": "<h2>About CodexFlow</h2><p>CodexFlow began with a simple idea: a smoother, more elegant way to interact with Codex.</p>"
+  "aboutHtmlLocale": "zh",
+  "aboutLocales": {
+    "zh": "<h2>关于 CodexFlow</h2><p>CodexFlow 诞生于一个简单的想法：让 Codex 的使用体验更流畅、更优雅。</p>",
+    "en": "<h2>About CodexFlow</h2><p>CodexFlow began with a simple idea: make interacting with Codex smoother and more elegant.</p>"
+  },
+  "donate": [
+    {
+      "name": "支付宝",
+      "nameLocales": {
+        "zh": "支付宝",
+        "en": "Alipay"
+      },
+      "image": ""
     },
-    "donate": [
-        {
-            "name": "支付宝",
-            "nameLocales": {
-                "zh": "支付宝",
-                "en": "Alipay"
-            },
-            "image": "https://cdn.example.com/donate/alipay.png"
-        },
-        {
-            "name": "微信",
-            "nameLocales": {
-                "zh": "微信",
-                "en": "WeChat"
-            },
-            "image": "https://cdn.example.com/donate/wechat.png"
-        },
-        {
-            "name": "PayPal.me",
-            "nameLocales": {
-                "zh": "PayPal.me",
-                "en": "PayPal.me"
-            },
-            "url": "https://paypal.me/yourAccount"
-        }
-    ],
-    "announces": [
-        {
-            "id": "2024-01",
-            "text": "欢迎体验 CodexFlow 0.2.0,新功能持续完善中。",
-            "textLocales": {
-                "zh": "欢迎体验 CodexFlow 0.2.0,新功能持续完善中。",
-                "en": "Welcome to CodexFlow 0.2.0. More improvements are on the way."
-            }
-        },
-        {
-            "id": "2024-02",
-            "text": "新增多语言支持,欢迎反馈使用体验。",
-            "textLocales": {
-                "zh": "新增多语言支持,欢迎反馈使用体验。",
-                "en": "Multi-language support is now available—feel free to share your feedback."
-            }
-        }
-    ],
-    "latest": {
-        "version": "0.3.0",
-        "notesLocale": "zh",
-        "notes": "1. 新增关于页多语言支持\n2. 优化终端体验\n3. 修复若干已知问题",
-        "notesLocales": {
-            "zh": "1. 新增关于页多语言支持\n2. 优化终端体验\n3. 修复若干已知问题",
-            "en": "1. Added multi-language support to the About page\n2. Improved the terminal experience\n3. Fixed several known issues"
-        },
-        "url": "https://github.com/yourname/CodexFlow/releases"
+    {
+      "name": "微信",
+      "nameLocales": {
+        "zh": "微信",
+        "en": "WeChat"
+      },
+      "image": ""
+    },
+    {
+      "name": "PayPal.me",
+      "nameLocales": {
+        "zh": "PayPal.me",
+        "en": "PayPal.me"
+      },
+      "url": ""
     }
+  ],
+  "announces": [],
+  "latest": {
+    "version": "0.3.0",
+    "notesLocale": "zh",
+    "notes": "1. 实时显示账号剩余用量\n2. 新增 @Cursor Rule 支持(仅用于引用)\n3. 代理任务完成时推送系统通知\n4. 重构设置页并新增账号信息展示\n5. 新增设置页缓存一键清理\n6. 修复多项已知问题,提升稳定性",
+    "notesLocales": {
+      "zh": "1. 实时显示账号剩余用量\n2. 新增 @Cursor Rule 支持(仅用于引用)\n3. 代理任务完成时推送系统通知\n4. 重构设置页并新增账号信息展示\n5. 新增设置页缓存一键清理\n6. 修复多项已知问题,提升稳定性",
+      "en": "1. Real-time display of remaining account usage\n2. Support for @Cursor Rule (reference-only)\n3. System notifications when agent tasks complete\n4. Rebuilt Settings with an account info section\n5. One-click cache cleanup in Settings\n6. Fixed several known issues and improved stability"
+    },
+    "url": "https://github.com/yourname/CodexFlow/releases"
+  }
 }
