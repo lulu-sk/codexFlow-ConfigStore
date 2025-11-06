@@ -32,12 +32,12 @@
   ],
   "announces": [],
   "latest": {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "notesLocale": "zh",
-    "notes": "1. 实时显示账号剩余用量\n2. 支持 @Cursor Rule(仅引用)\n3. 代理任务完成时的系统通知(消息/任务栏图标/声音)\n4. 重构设置页布局,并新增账号信息展示\n5. 设置页新增完全清理缓存\n6. 修复若干已知问题,提升稳定性",
+    "notes": "1. 输入框支持展开为全屏编辑，提升输入效率\n2. 新增暗色主题，提供更舒适的浏览体验\n3. 历史详情页面每个模块均提供“复制”按钮，便于快速复制内容\n4. 支持自定义终端字体，满足个性化显示需求\n5. 优化内存泄漏问题\n6. 支持选择项目排序顺序，便于快速定位和访问常用项目",
     "notesLocales": {
-      "zh": "1. 实时显示账号剩余用量\n2. 支持 @Cursor Rule(仅引用)\n3. 代理任务完成时的系统通知(消息/任务栏图标/声音)\n4. 重构设置页布局,并新增账号信息展示\n5. 设置页新增完全清理缓存\n6. 修复若干已知问题,提升稳定性",
-      "en": "1. Real-time display of remaining account quota\n2. Support for @Cursor Rule (reference-only)\n3. System notifications when agent tasks complete (message/taskbar icon/sound)\n4. Refactored Settings layout and added account details\n5. Added full cache wipe in Settings\n6. Fixed several known issues and improved stability"
+      "zh": "1. 输入框支持展开为全屏编辑，提升输入效率\n2. 新增暗色主题，提供更舒适的浏览体验\n3. 历史详情页面每个模块均提供“复制”按钮，便于快速复制内容\n4. 支持自定义终端字体，满足个性化显示需求\n5. 优化内存泄漏问题\n6. 支持选择项目排序顺序，便于快速定位和访问常用项目",
+      "en": "1. Input field can expand to full-screen editing for faster input\n2. Added dark theme for a more comfortable browsing experience\n3. \"Copy\" buttons on each section of the history details page for quick copying\n4. Support custom terminal fonts for personalized display\n5. Optimized memory leak issues\n6. Support selecting project sort order to quickly locate and access frequently used projects"
     },
     "url": "https://github.com/lulu-sk/CodexFlow/releases/latest"
   }
