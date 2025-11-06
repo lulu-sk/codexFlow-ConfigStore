@@ -1,0 +1,44 @@
+{
+  "aboutHtmlLocale": "zh",
+  "aboutLocales": {
+    "zh": "<h2>关于 CodexFlow</h2><p>CodexFlow 诞生于一个简单的想法：让 Codex 的使用体验更流畅、更优雅。</p>",
+    "en": "<h2>About CodexFlow</h2><p>CodexFlow began with a simple idea: make interacting with Codex smoother and more elegant.</p>"
+  },
+  "donate": [
+    {
+      "name": "支付宝",
+      "nameLocales": {
+        "zh": "支付宝",
+        "en": "Alipay"
+      },
+      "image": ""
+    },
+    {
+      "name": "微信",
+      "nameLocales": {
+        "zh": "微信",
+        "en": "WeChat"
+      },
+      "image": ""
+    },
+    {
+      "name": "PayPal.me",
+      "nameLocales": {
+        "zh": "PayPal.me",
+        "en": "PayPal.me"
+      },
+      "url": ""
+    }
+  ],
+  "announces": [],
+  "latest": {
+    "version": "0.3.0",
+    "notesLocale": "zh",
+    "notes": "1. 输入框支持展开为全屏编辑，提升输入效率\n2. 新增暗色主题，提供更舒适的浏览体验\n3. 历史详情页面每个模块均提供“复制”按钮，便于快速复制内容\n4. 支持自定义终端字体，满足个性化显示需求\n5. 优化内存泄漏问题\n6. 支持选择项目排序顺序，便于快速定位和访问常用项目",
+    "notesLocales": {
+      "zh": "1. 输入框支持展开为全屏编辑，提升输入效率\n2. 新增暗色主题，提供更舒适的浏览体验\n3. 历史详情页面每个模块均提供“复制”按钮，便于快速复制内容\n4. 支持自定义终端字体，满足个性化显示需求\n5. 优化内存泄漏问题\n6. 支持选择项目排序顺序，便于快速定位和访问常用项目",
+      "en": "1. Input field can expand to full-screen editing for faster input\n2. Added dark theme for a more comfortable browsing experience\n3. \"Copy\" buttons on each section of the history details page for quick copying\n4. Support custom terminal fonts for personalized display\n5. Optimized memory leak issues\n6. Support selecting project sort order to quickly locate and access frequently used projects"
+    },
+    "url": "https://github.com/lulu-sk/CodexFlow/releases/latest"
+  }
+}
