@@ -32,12 +32,12 @@
   ],
   "announces": [],
   "latest": {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "notesLocale": "zh",
-    "notes": "1. 输入框支持展开为全屏编辑，提升输入效率\n2. 新增暗色主题，提供更舒适的浏览体验\n3. 历史详情页面每个模块均提供“复制”按钮，便于快速复制内容\n4. 支持自定义终端字体，满足个性化显示需求\n5. 优化内存泄漏问题\n6. 支持选择项目排序顺序，便于快速定位和访问常用项目",
+    "notes": "1. 全面美化 UI 视觉表现,细致打磨布局与交互细节\n2. 终端支持自定义主题,并新增白色主题\n3. 优化历史侧栏分组规则,更加清晰直观,支持通过内容搜索会话\n4. 历史详情支持内容搜索,并提供 F3 / Shift+F3 快捷导航",
     "notesLocales": {
-      "zh": "1. 输入框支持展开为全屏编辑，提升输入效率\n2. 新增暗色主题，提供更舒适的浏览体验\n3. 历史详情页面每个模块均提供“复制”按钮，便于快速复制内容\n4. 支持自定义终端字体，满足个性化显示需求\n5. 优化内存泄漏问题\n6. 支持选择项目排序顺序，便于快速定位和访问常用项目",
-      "en": "1. Input field can expand to full-screen editing for faster input\n2. Added dark theme for a more comfortable browsing experience\n3. \"Copy\" buttons on each section of the history details page for quick copying\n4. Support custom terminal fonts for personalized display\n5. Optimized memory leak issues\n6. Support selecting project sort order to quickly locate and access frequently used projects"
+      "zh": "1. 全面美化 UI 视觉表现,细致打磨布局与交互细节\n2. 终端支持自定义主题,并新增白色主题\n3. 优化历史侧栏分组规则,更加清晰直观,支持通过内容搜索会话\n4. 历史详情支持内容搜索,并提供 F3 / Shift+F3 快捷导航",
+      "en": "1. Polished overall UI visuals with refined layouts and interaction details\n2. Terminal themes are now customizable, with a new light theme available\n3. Improved history sidebar grouping for clearer organization, with session search by content\n4. Added content search in history details with F3 / Shift+F3 shortcuts for navigation"
     },
     "url": "https://github.com/lulu-sk/CodexFlow/releases/latest"
   }
