@@ -32,13 +32,13 @@
   ],
   "announces": [],
   "latest": {
-    "version": "0.3.0",
+    "version": "0.5.0",
     "notesLocale": "zh",
-    "notes": "1. 实时显示账号剩余用量\n2. 支持 @Cursor Rule(仅引用)\n3. 代理任务完成时的系统通知(消息/任务栏图标/声音)\n4. 重构设置页布局,并新增账号信息展示\n5. 设置页新增完全清理缓存\n6. 修复若干已知问题,提升稳定性",
+    "notes": "1. 多引擎：新增 Claude / Gemini / Terminal / 自定义引擎；支持随时切换；历史 / 续聊 / 用量 / 完成通知全覆盖；引擎独立图标（含暗色）\n2. 账号：支持多 Codex 账号备份与一键切换；快速查看用量\n3. 性能：历史索引更省内存 / 空间、卡顿更少；项目列表启动更快\n4. 终端：支持 PowerShell 7；Gemini 换行更兼容；修复 Windows Terminal / 打包 / WSL 兼容问题\n5. 体验：图片粘贴去重；拖拽图片无临时文件；拖拽文件跨项目提醒；项目可隐藏；防意外刷新丢终端；退出确认\n6. 实验：支持多开，同时运行多个独立 CodexFlow 实例",
     "notesLocales": {
-      "zh": "1. 实时显示账号剩余用量\n2. 支持 @Cursor Rule(仅引用)\n3. 代理任务完成时的系统通知(消息/任务栏图标/声音)\n4. 重构设置页布局,并新增账号信息展示\n5. 设置页新增完全清理缓存\n6. 修复若干已知问题,提升稳定性",
-      "en": "1. Real-time display of remaining account quota\n2. Support for @Cursor Rule (reference-only)\n3. System notifications when agent tasks complete (message/taskbar icon/sound)\n4. Refactored Settings layout and added account details\n5. Added full cache wipe in Settings\n6. Fixed several known issues and improved stability"
+      "zh": "1. 多引擎：新增 Claude / Gemini / Terminal / 自定义引擎；支持随时切换；历史 / 续聊 / 用量 / 完成通知全覆盖；引擎独立图标（含暗色）\n2. 账号：支持多 Codex 账号备份与一键切换；快速查看用量\n3. 性能：历史索引更省内存 / 空间、卡顿更少；项目列表启动更快\n4. 终端：支持 PowerShell 7；Gemini 换行更兼容；修复 Windows Terminal / 打包 / WSL 兼容问题\n5. 体验：图片粘贴去重；拖拽图片无临时文件；拖拽文件跨项目提醒；项目可隐藏；防意外刷新丢终端；退出确认\n6. 实验：支持多开，同时运行多个独立 CodexFlow 实例",
+      "en": "1. Multi-engine: added Claude / Gemini / Terminal / Custom engines; switch anytime; full coverage across History / Continue Chat / Usage / Completion notifications; per-engine icons (including dark variants)\n2. Accounts: multiple Codex account backups and one-click switching; quick usage overview\n3. Performance: history indexing uses less memory/storage with fewer stalls; faster project list startup\n4. Terminal: PowerShell 7 support; improved Gemini newline compatibility; fixed Windows Terminal / packaging / WSL compatibility issues\n5. UX: deduplicate pasted images; drag-and-drop images without temporary files; cross-project drag-and-drop reminders; hide projects; prevent terminal loss on accidental refresh; exit confirmation\n6. Experimental: multi-instance support to run multiple independent CodexFlow instances simultaneously"
     },
-    "url": "https://github.com/yourname/CodexFlow/releases"
+    "url": "https://github.com/lulu-sk/CodexFlow/releases/latest"
   }
 }
