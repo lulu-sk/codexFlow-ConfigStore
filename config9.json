@@ -32,12 +32,12 @@
   ],
   "announces": [],
   "latest": {
-    "version": "0.4.0",
+    "version": "0.5.0",
     "notesLocale": "zh",
-    "notes": "1. 全面美化 UI 视觉表现,细致打磨布局与交互细节\n2. 终端支持自定义主题,并新增白色主题\n3. 优化历史侧栏分组规则,更加清晰直观,支持通过内容搜索会话\n4. 历史详情支持内容搜索,并提供 F3 / Shift+F3 快捷导航",
+    "notes": "1. 多引擎：新增 Claude / Gemini / Terminal / 自定义引擎；支持随时切换；历史 / 续聊 / 用量 / 完成通知全覆盖；引擎独立图标（含暗色）\n2. 账号：支持多 Codex 账号备份与一键切换；快速查看用量\n3. 性能：历史索引更省内存 / 空间、卡顿更少；项目列表启动更快\n4. 终端：支持 PowerShell 7；Gemini 换行更兼容；修复 Windows Terminal / 打包 / WSL 兼容问题\n5. 体验：图片粘贴去重；拖拽图片无临时文件；拖拽文件跨项目提醒；项目可隐藏；防意外刷新丢终端；退出确认\n6. 实验：支持多开，同时运行多个独立 CodexFlow 实例",
     "notesLocales": {
-      "zh": "1. 全面美化 UI 视觉表现,细致打磨布局与交互细节\n2. 终端支持自定义主题,并新增白色主题\n3. 优化历史侧栏分组规则,更加清晰直观,支持通过内容搜索会话\n4. 历史详情支持内容搜索,并提供 F3 / Shift+F3 快捷导航",
-      "en": "1. Polished overall UI visuals with refined layouts and interaction details\n2. Terminal themes are now customizable, with a new light theme available\n3. Improved history sidebar grouping for clearer organization, with session search by content\n4. Added content search in history details with F3 / Shift+F3 shortcuts for navigation"
+      "zh": "1. 多引擎：新增 Claude / Gemini / Terminal / 自定义引擎；支持随时切换；历史 / 续聊 / 用量 / 完成通知全覆盖；引擎独立图标（含暗色）\n2. 账号：支持多 Codex 账号备份与一键切换；快速查看用量\n3. 性能：历史索引更省内存 / 空间、卡顿更少；项目列表启动更快\n4. 终端：支持 PowerShell 7；Gemini 换行更兼容；修复 Windows Terminal / 打包 / WSL 兼容问题\n5. 体验：图片粘贴去重；拖拽图片无临时文件；拖拽文件跨项目提醒；项目可隐藏；防意外刷新丢终端；退出确认\n6. 实验：支持多开，同时运行多个独立 CodexFlow 实例",
+      "en": "1. Multi-engine: added Claude / Gemini / Terminal / Custom engines; switch anytime; full coverage across History / Continue Chat / Usage / Completion notifications; per-engine icons (including dark variants)\n2. Accounts: multiple Codex account backups and one-click switching; quick usage overview\n3. Performance: history indexing uses less memory/storage with fewer stalls; faster project list startup\n4. Terminal: PowerShell 7 support; improved Gemini newline compatibility; fixed Windows Terminal / packaging / WSL compatibility issues\n5. UX: deduplicate pasted images; drag-and-drop images without temporary files; cross-project drag-and-drop reminders; hide projects; prevent terminal loss on accidental refresh; exit confirmation\n6. Experimental: multi-instance support to run multiple independent CodexFlow instances simultaneously"
     },
     "url": "https://github.com/lulu-sk/CodexFlow/releases/latest"
   }
