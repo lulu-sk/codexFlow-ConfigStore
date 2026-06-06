@@ -1,0 +1,44 @@
+{
+  "aboutHtmlLocale": "zh",
+  "aboutLocales": {
+    "zh": "<h2>关于 CodexFlow</h2><p>CodexFlow 诞生于一个简单的想法：让 Codex 的使用体验更流畅、更优雅。</p>",
+    "en": "<h2>About CodexFlow</h2><p>CodexFlow began with a simple idea: make interacting with Codex smoother and more elegant.</p>"
+  },
+  "donate": [
+    {
+      "name": "支付宝",
+      "nameLocales": {
+        "zh": "支付宝",
+        "en": "Alipay"
+      },
+      "image": ""
+    },
+    {
+      "name": "微信",
+      "nameLocales": {
+        "zh": "微信",
+        "en": "WeChat"
+      },
+      "image": ""
+    },
+    {
+      "name": "PayPal.me",
+      "nameLocales": {
+        "zh": "PayPal.me",
+        "en": "PayPal.me"
+      },
+      "url": ""
+    }
+  ],
+  "announces": [],
+  "latest": {
+    "version": "0.9.0",
+    "notesLocale": "zh",
+    "notes": "1. 实现完整内置 Git 面板能力，在标签栏左侧打开\n2. 历史详情支持预览图片、查看大图和右键复制\n3. 历史侧边栏新增“当前项目 / 项目组 / 全部会话”三档范围切换\n4. 长历史详情支持全量虚拟列表读取\n5. 支持从子工作区继续创建新的工作区\n6. 删除对话框支持按目标分支进行重置\n7. 支持通过 Ctrl + Home / Ctrl + End 快捷键快速跳转至终端或历史详情的顶部/底部，并增加可见快捷按钮，便于快速跳转\n8. 历史详情支持一键跳转至上一条/下一条用户输入会话\n9. 支持独立标签页窗口\n10. 运行中代理的标签数字增加动效提示，并在标签页中展示代理运行状态\n11. 关闭标签页前增加弹窗提醒；输入框中仍有内容时，关闭前进行二次确认\n12. 修复 Gemini 长消息发送失败问题\n13. 优化 Gemini 的图片传递能力\n14. 优化 Codex 滚动条自动跳回顶部的问题",
+    "notesLocales": {
+      "zh": "1. 实现完整内置 Git 面板能力，在标签栏左侧打开\n2. 历史详情支持预览图片、查看大图和右键复制\n3. 历史侧边栏新增“当前项目 / 项目组 / 全部会话”三档范围切换\n4. 长历史详情支持全量虚拟列表读取\n5. 支持从子工作区继续创建新的工作区\n6. 删除对话框支持按目标分支进行重置\n7. 支持通过 Ctrl + Home / Ctrl + End 快捷键快速跳转至终端或历史详情的顶部/底部，并增加可见快捷按钮，便于快速跳转\n8. 历史详情支持一键跳转至上一条/下一条用户输入会话\n9. 支持独立标签页窗口\n10. 运行中代理的标签数字增加动效提示，并在标签页中展示代理运行状态\n11. 关闭标签页前增加弹窗提醒；输入框中仍有内容时，关闭前进行二次确认\n12. 修复 Gemini 长消息发送失败问题\n13. 优化 Gemini 的图片传递能力\n14. 优化 Codex 滚动条自动跳回顶部的问题",
+      "en": "1. Added a full built-in Git panel that opens from the left side of the tab bar\n2. History details now support image preview, large-image viewing, and right-click copy\n3. Added a three-level scope switch in the history sidebar: Current Project / Project Group / All Sessions\n4. Long history details now support full virtual-list loading\n5. Supports creating a new workspace from a child workspace\n6. The delete dialog now supports resetting by target branch\n7. Supports Ctrl + Home / Ctrl + End shortcuts to quickly jump to the top or bottom of the terminal or history details, with visible shortcut buttons added for easier navigation\n8. History details now support one-click navigation to the previous/next user input\n9. Supports independent tab windows\n10. Running agent tab numbers now include animated indicators, and tabs display the agent running state\n11. Closing a tab now shows a confirmation dialog; if the input box still contains content, an additional confirmation is shown before closing\n12. Fixed Gemini long-message sending failures\n13. Improved Gemini image transfer behavior\n14. Fixed the issue where the Codex scrollbar automatically jumped back to the top"
+    },
+    "url": "https://github.com/lulu-sk/CodexFlow/releases/latest"
+  }
+}
